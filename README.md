@@ -1,5 +1,5 @@
 # Hop-Data-Scraper
-Scrape hop data from hoplist.com (hop_spyder_1), barthhaus.com(hop_spyder_2) and Yakima valley
+Scrape hop data from hoplist.com (hop_spyder_1), barthhaus.com (hop_spyder_2) and Yakima valley pdf
 
 
 to run hop_spyder_X:
