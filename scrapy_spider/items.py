@@ -6,8 +6,6 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-
-
 from scrapy.item import Item, Field
 
 
@@ -25,3 +23,16 @@ class hopitem(Item):
     caryophyllene = Field()
     farnesene = Field()
     substitutes = Field()
+    flavor = Field()
+    citrus = Field()
+    sweet_fruits = Field()
+    green_fruits = Field()
+    berries_curant = Field()
+    cream_caramel= Field()
+    woody_aromatic= Field()
+    menthol= Field()
+    herbal= Field()
+    spicy= Field()
+    grassy= Field()
+    vegetal= Field()
+    floral= Field()
